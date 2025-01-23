@@ -70,8 +70,6 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 *Ref 12: Windows 10 Enterprise Installation*
 ![windows server installation](images/image44.png)
 
-
-
 ### III. Installing and Configuring Active Directory
 #### Install Active Directory Domain Services (AD DS)
 1. **Open Server Manager**:
@@ -80,9 +78,39 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 2. **Add AD DS Role**:
    - Follow the wizard to install the Active Directory Domain Services role.
 
+*Ref 13: Configuring Active Directory Domain Services*
+![windows server installation](images/image9.png)
+
+*Ref 14: Configuring Active Directory Domain Services*
+![windows server installation](images/image10.png)
+
 3. **Promote Server to Domain Controller**:
    - After the installation, use the “Promote this server to a domain controller” option.
    - Create a new forest and domain (e.g., ad.lab).
+
+*Ref 15: Configuring Active Directory Domain Services*
+![windows server installation](images/image11.png)
+
+*Ref 16: Configuring Active Directory Domain Services*
+![windows server installation](images/image12.png)
+
+*Ref 17: Configuring Active Directory Domain Services*
+![windows server installation](images/image13.png)
+
+*Ref 18: Configuring Active Directory Domain Services*
+![windows server installation](images/image14.png)
+
+*Ref 19: Configuring Active Directory Domain Services*
+![windows server installation](images/image15.png)
+
+*Ref 20: Configuring Active Directory Domain Services*
+![windows server installation](images/image16.png)
+
+*Ref 21: Configuring Active Directory Domain Services*
+![windows server installation](images/image17.png)
+
+*Ref 22: Configuring Active Directory Domain Services*
+![windows server installation](images/image18.png)
 
 #### Configure DNS
 1. **Install DNS Role**:
