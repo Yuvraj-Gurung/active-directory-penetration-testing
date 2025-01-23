@@ -138,8 +138,7 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 #### Making AD lab Vulnerable
 - Open PowerShell as administrator and execute the following commands in powershell.
 
-![creating users](images/image26.png) ![creating users](images/image27.png)
-
+![creating users](images/image34.png) ![creating users](images/image35.png)
 
 #### Set Up Group Policy Objects (GPOs)
 1. **Open Group Policy Management**:
