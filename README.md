@@ -132,13 +132,13 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 2. **Create Users**:
    - Create Users and assign the password
 
-*Ref 25: Configuring DNS*
-<img src="" width="" />
-
-
+*Ref 25: Creating Users*
+![creating users](images/image26.png) ![creating users](images/image27.png) ![creating users](images/image28.png) ![creating users](images/image29.png) ![creating users](images/image30.png) ![creating users](images/image31.png) ![creating users](images/image32.png) ![creating users](images/image33.png)
 
 #### Making AD lab Vulnerable
 - Open PowerShell as administrator and execute the following commands in powershell.
+
+![creating users](images/image26.png) ![creating users](images/image27.png)
 
 
 #### Set Up Group Policy Objects (GPOs)
