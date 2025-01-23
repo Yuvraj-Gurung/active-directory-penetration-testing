@@ -116,15 +116,26 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 1. **Install DNS Role**:
    - During the AD DS installation, ensure the DNS role is also installed.
 
+*Ref 23: Configuring DNS*
+![configuring dns](images/image19.png)
+
 2. **Configure DNS Settings**:
    - Verify that the DNS server is correctly configured to handle domain name resolution for the lab network.
+
+*Ref 24: Configuring DNS*
+![configuring dns](images/image20.png)
 
 #### Create Organizational Units (OUs)
 1. **Open Active Directory Users and Computers**:
    - Use the AD management tools to create OUs for organizing users, groups, and computers.
 
-2. **Create OUs**:
-   - Create OUs based on your lab requirements (e.g., HR, IT, Sales).
+2. **Create Users**:
+   - Create Users and assign the password
+
+*Ref 25: Configuring DNS*
+<img src="" width="" />
+
+
 
 #### Making AD lab Vulnerable
 - Open PowerShell as administrator and execute the following commands in powershell.
