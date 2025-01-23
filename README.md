@@ -58,6 +58,20 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 1. **Create Client VMs**:
    - Repeat the process to create additional VMs for client machines using the Windows 10 Enterprise ISO file.
 
+*Ref 9: Windows 10 Enterprise Installation*
+![windows server installation](images/image41.png)
+
+*Ref 10: Windows 10 Enterprise Installation*
+![windows server installation](images/image42.png)
+
+*Ref 11: Windows 10 Enterprise Installation*
+![windows server installation](images/image43.png)
+
+*Ref 12: Windows 10 Enterprise Installation*
+![windows server installation](images/image44.png)
+
+
+
 ### III. Installing and Configuring Active Directory
 #### Install Active Directory Domain Services (AD DS)
 1. **Open Server Manager**:
