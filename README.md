@@ -144,6 +144,12 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 1. **Open Group Policy Management**:
    - Use the Group Policy Management Console to create and manage GPOs.
 
+*Ref 27: Configuring GPO*
+![configuring gpo](images/image39.png)
+
+*Ref 27: Configuring GPO*
+![configuring gpo](images/image40.png)
+
 2. **Create and Link GPOs**:
    - Create GPOs to enforce security policies and link them to the appropriate OUs.
 
