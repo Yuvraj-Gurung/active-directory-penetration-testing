@@ -130,13 +130,15 @@ This documentation provides a step-by-step guide to setting up an Active Directo
    - Use the AD management tools to create OUs for organizing users, groups, and computers.
 
 2. **Create Users**:
-   - Create Users and assign the password
+   - Create Users and assign the password.
 
 *Ref 25: Creating Users*
 ![creating users](images/image26.png) ![creating users](images/image27.png) ![creating users](images/image28.png) ![creating users](images/image29.png) ![creating users](images/image30.png) ![creating users](images/image31.png) ![creating users](images/image32.png) ![creating users](images/image33.png)
 
 #### Making AD lab Vulnerable
 - Open PowerShell as administrator and execute the following commands in powershell.
+
+*Ref 26: AD Vulnerable*
 
 ![creating users](images/image34.png) ![creating users](images/image35.png)
 
@@ -147,7 +149,7 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 *Ref 27: Configuring GPO*
 ![configuring gpo](images/image39.png)
 
-*Ref 27: Configuring GPO*
+*Ref 28: Configuring GPO*
 ![configuring gpo](images/image40.png)
 
 2. **Create and Link GPOs**:
@@ -159,3 +161,6 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 
 2. **Join Client Machines to the Domain**:
    - On each client machine, open System Properties and use the “Change settings” option to join the domain (e.g., ad.lab).
+
+*Ref 29: Joining Windows 10 to AD Domain*
+![configuring gpo](images/image45.png) ![configuring gpo](images/image46.png) ![configuring gpo](images/image47.png) ![configuring gpo](images/image48.png) ![configuring gpo](images/image49.png) ![configuring gpo](images/image50.png) ![configuring gpo](images/image51.png)
