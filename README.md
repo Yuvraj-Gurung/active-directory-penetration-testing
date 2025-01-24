@@ -10,7 +10,7 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 - **Network Configuration**: Basic understanding of networking concepts
 
 ## Lab Set Up
-### I. Setting Up the Virtual Environment
+### I. 💻 Setting Up the Virtual Environment
 1. **Install Virtualization Software**:
    - Download and install Oracle VirtualBox from their respective websites.
    - Follow the installation instructions provided by the software vendor.
@@ -18,7 +18,7 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 2. **Download ISO Files**:
    - Obtain the ISO files for Windows Server 2019 and Windows 10 Enterprise from the Microsoft website or a trusted source.
 
-### II. Creating Virtual Machines (VMs)
+### II. 💻 Creating Virtual Machines (VMs)
 #### Domain Controller (DC)
 1. **Create a New VM**:
    - Open the virtualization software and create a new VM.
@@ -70,7 +70,7 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 *Ref 12: Windows 10 Enterprise Installation*
 ![windows server installation](images/image44.png)
 
-### III. Installing and Configuring Active Directory
+### III. 💻 Installing and Configuring Active Directory
 #### Install Active Directory Domain Services (AD DS)
 1. **Open Server Manager**:
    - On the Domain Controller VM, open Server Manager and select “Add roles and features".
@@ -155,7 +155,7 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 2. **Create and Link GPOs**:
    - Create GPOs to enforce security policies and link them to the appropriate OUs.
 
-### IV. Joining Client Machines to the Domain
+### IV. 💻 Joining Client Machines to the Domain
 1. **Network Configuration**:
    - Ensure all VMs are on the same virtual network.
 
@@ -165,7 +165,7 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 *Ref 29: Joining Windows 10 to AD Domain*
 ![configuring gpo](images/image45.png) ![configuring gpo](images/image46.png) ![configuring gpo](images/image47.png) ![configuring gpo](images/image48.png) ![configuring gpo](images/image49.png) ![configuring gpo](images/image50.png) ![configuring gpo](images/image51.png) ![configuring gpo](images/image52.png) ![configuring gpo](images/image53.png)
 
-### V. Active Directory Penetration testing
+### V. 💻 Active Directory Penetration testing
 1. **LLMNR Poisoning**
 
 *Ref 30: LLMNR Poisoning*
