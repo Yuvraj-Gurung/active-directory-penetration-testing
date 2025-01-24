@@ -163,4 +163,26 @@ This documentation provides a step-by-step guide to setting up an Active Directo
    - On each client machine, open System Properties and use the “Change settings” option to join the domain (e.g., ad.lab).
 
 *Ref 29: Joining Windows 10 to AD Domain*
-![configuring gpo](images/image45.png) ![configuring gpo](images/image46.png) ![configuring gpo](images/image47.png) ![configuring gpo](images/image48.png) ![configuring gpo](images/image49.png) ![configuring gpo](images/image50.png) ![configuring gpo](images/image51.png)
+![configuring gpo](images/image45.png) ![configuring gpo](images/image46.png) ![configuring gpo](images/image47.png) ![configuring gpo](images/image48.png) ![configuring gpo](images/image49.png) ![configuring gpo](images/image50.png) ![configuring gpo](images/image51.png) ![configuring gpo](images/image52.png) ![configuring gpo](images/image53.png)
+
+### V. Active Directory Penetration testing
+1. **LLMNR Poisoning**
+
+*Ref 30: LLMNR Poisoning*
+![configuring gpo](images/image54.png) ![configuring gpo](images/image55.png) ![configuring gpo](images/image56.png) ![configuring gpo](images/image57.png) ![configuring gpo](images/image58.png) ![configuring gpo](images/image59.png)
+
+2. **Cracking the password**
+
+*Ref 31: Cracking the password*
+![configuring gpo](images/image60.png) ![configuring gpo](images/image61.png)
+
+3. SharpHound - Extracting the AD Domain Information
+
+*Ref 32: Cracking the password*
+![configuring gpo](images/image62.png)
+
+4. **BloodHound Demo**
+
+*Ref 33: Cracking the password*
+![configuring gpo](images/image63.png) ![configuring gpo](images/image64.png) ![configuring gpo](images/image65.png) ![configuring gpo](images/image66.png) ![configuring gpo](images/image67.png) ![configuring gpo](images/image68.png) ![configuring gpo](images/image69.png) ![configuring gpo](images/image70.png)
+
