@@ -24,7 +24,7 @@ This documentation provides a step-by-step guide to setting up an Active Directo
    - Open the virtualization software and create a new VM.
    - Select the Windows Server 2019 ISO file as the installation source.
 
-*Ref 1: Windows Server Installation 1*
+*Ref 1: Windows Server Installation*
 ![windows server installation](images/image1.png)
 
 2. **Configure VM Settings**:
@@ -33,10 +33,10 @@ This documentation provides a step-by-step guide to setting up an Active Directo
 3. **Install Windows Server**:
    - Follow the installation process to set up Windows Server on the VM.
 
-*Ref 2: Windows Server Installation 2*
+*Ref 2: Windows Server Installation*
 ![windows server installation](images/image2.png)
 
-*Ref 3: Windows Server Installation 3*
+*Ref 3: Windows Server Installation*
 ![windows server installation](images/image3.png)
 
 *Ref 4: Windows Server Installation*
